@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-05T18:16:04.756810Z",
+    "generator": "OrgimA REST Introspection",
+    "version": "1.0.0"
+  },
+  "organization": {
+    "login": "org-regima",
+    "name": "OrgimA - Organizational Intelligence for RegimA",
+    "id": 253109054,
+    "node_id": "O_kgDODxYjPg",
+    "description": null,
+    "created_at": "2026-01-05T16:47:19Z",
+    "updated_at": "2026-01-05T16:47:24Z",
+    "public_repos": 1,
+    "total_private_repos": 0,
+    "owned_private_repos": 0,
+    "members_count": 0,
+    "plan": {
+      "name": "enterprise",
+      "space": 976562499,
+      "private_repos": 999999,
+      "filled_seats": 3,
+      "seats": 0
+    }
+  },
+  "repositories": [
+    {
+      "name": ".github",
+      "full_name": "org-regima/.github",
+      "id": 1128449272,
+      "node_id": "R_kgDOQ0LE-A",
+      "description": "Organization profile and configuration repository for OrgimA - Organizational Intelligence for RegimA",
+      "private": false,
+      "default_branch": "main",
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-01-05T16:47:33Z",
+      "updated_at": "2026-01-05T18:11:48Z",
+      "pushed_at": "2026-01-05T18:11:44Z",
+      "size": 10148,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "has_issues": true,
+      "has_projects": true,
+      "has_wiki": true,
+      "has_discussions": false,
+      "archived": false,
+      "visibility": "public"
+    }
+  ],
+  "members": [
+    {
+      "login": "danregima",
+      "id": 10253941,
+      "node_id": "MDQ6VXNlcjEwMjUzOTQx",
+      "type": "User",
+      "site_admin": false
+    },
+    {
+      "login": "drzo",
+      "id": 15202748,
+      "node_id": "MDQ6VXNlcjE1MjAyNzQ4",
+      "type": "User",
+      "site_admin": false
+    },
+    {
+      "login": "dtecho",
+      "id": 187844575,
+      "node_id": "U_kgDOCzJH3w",
+      "type": "User",
+      "site_admin": false
+    }
+  ],
+  "teams": [],
+  "webhooks": []
+}
